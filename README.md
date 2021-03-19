@@ -1,2 +1,3 @@
 # devmotiv.github.io
-Production build only
+Website under construction. 
+Build by Angular and compiled to JAM stack by Scully.
