@@ -1,0 +1,151 @@
+{
+  "navigation": {
+    "about": "O nama",
+    "workflow": "Tijek rada",
+    "workbench": "Tehnologije",
+    "services": "Usluge",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "getInTouch": "Kontaktirajte nas"
+  },
+  "buttons": {
+    "contactUs": "Kontaktirajte nas",
+    "signUp": "Prijavite se",
+    "submit": "Pošalji"
+  },
+    "sIntro": {
+    "1": "Poslovi računalnog programiranja",
+    "2": "Iskusni s različitim tehnologijama nastojimo izgraditi optimizirani proizvod za svakog klijenta."
+  },
+  "sAboutUs": {
+    "label": "O nama",
+    "h1": "Ne bježimo od izazova",
+    "text1": "DEVMOTIV je tvrtka za razvoj web stranica koju je 2021. osnovao Matej Bošnjak, web developer s više od 5 godina rada s web tehnologijama. Sa zanimanjem za razne projekte, DEVMOTIV je spreman uhvatiti se u koštac s izazovima i oživjeti vaše projekte. Kako tehnologije napreduju, možemo koristiti web tehnologiju za izradu mobilnih ili windows aplikacija.",
+    "text2": "Kako bismo osigurali kvalitetu projekta i razvojnog procesa, oslanjamo se na svojih šest koraka razvojnog procesa. Nudimo fleksibilnost slušanja Vaših povratnih informacija tijekom svih koraka razvojnog procesa radi dodatnih promjena ili značajki.",
+    "check1": "Razvoj s visokokvalitetnim i čistim kodom",
+    "check2": "Podrška razvojnim zajednicama s konstruktivnim doprinosom",
+    "check3": "Učenje novih tehnologija kada god možemo"
+  },
+  "sWorkflow": {
+    "label": "Tijek rada",
+    "title": "Organiziramo svoj tijek rada u šest razvojnih koraka",
+    "s1": {
+      "title": "Prikupljanje informacija",
+      "text": "Prikupljanje informacija od klijenta o projektu kako bi se identificirale njegove potrebe i pružilo najbolje rješenje."
+    },
+    "s2": {
+      "title": "Planiranje projekta",
+      "text": "Na temelju prikupljenih informacija, planiranje projektnih područja i podpodručja pokreće se za izgradnju odgovarajućeg navigacijskog sustava."
+    },
+    "s3": {
+      "title": "Dizajn",
+      "text": "Izgradnjom jednog ili više prototipova dizajna i uključivanjem klijenta u neke od zadataka tijeka rada osiguravamo da projekt zadovoljava sve zahtjeve."
+    },
+    "s4": {
+      "title": "Razvoj",
+      "text": "Proces razvoja funkcionalnog projekta uz ispunjavanje svih zahtjeva standarda. Implementiramo tehnologije koje bi najbolje odgovarale vašem projektu."
+    },
+    "s5": {
+      "title": "Testiranje, Pregled i Lansiranje",
+      "text": "Testiranje funkcionalnosti, kompatibilnosti, dizajna i performansi kako bi se osiguralo da je projekt spreman za pokretanje."
+    },
+    "s6": {
+      "title": "Održavanje",
+      "text": "Zadaci nakon pokretanja prema korisnikovim povratnim informacijama, korisnička podrška i održavanje."
+    }
+  },
+  "sWorkbench": {
+    "label": "Tehnologije u našem arenalu"
+  },
+  "sServices": {
+    "title": "Naše usluge",
+    "subTitle": "Oslanjajući se na tehnologije s kojima raspolažemo, osiguravamo da je vaš projekt optimiziran, skalabilan i pravilno strukturiran s visokokvalitetnim kodom",
+    "s1": {
+      "title": "RAZVOJ WEB STRANICA",
+      "description": "Prekrasan i responzivan dizajn sa SEO optimizacijom"
+    },
+    "s2": {
+      "title": "RAZVOJ WEB APLIKACIJA",
+      "description": "Kvalitetan, čist i siguran kôd uz ispunjavanje svih programskih standarda"
+    },
+    "s3": {
+      "title": "SEO OPTIMIZACIJA",
+      "description": "Implementacija SEO optimizacije za vaš novi ili postojeći projekt"
+    },
+    "s4": {
+      "title": "PODRŠKA I POBOLJŠANJE",
+      "description": "Rješavanje pitanja tehničke podrške i poboljšanja nakon implementacije po zahtjevu"
+    },
+    "s5": {
+      "title": "MOBILNE I WINDOWS APLIKACIJE",
+      "description": "Možemo koristiti web tehnologije za izradu zapanjujućih mobilnih ili windows aplikacija"
+    },
+    "s6": {
+      "title": "IMPLEMENTACIJA BAZE PODATAKA",
+      "description": "Poboljšanje vašeg novog ili postojećeg projekta s bazom podataka i/ili prilagođenim CMS-om"
+    }
+  },
+  "sContactUs": {
+    "label": "Kontaktirajte nas",
+    "title": "Biti će nam drago komunicirati sa Vama!",
+    "adress": "Adresa",
+    "form": {
+      "messages": {
+        "default": "Odaberi predmet poruke",
+        "msg1": "Novi projekt",
+        "msg2": "Zatraži informacije",
+        "msg3": "Pošalji povratne informacije",
+        "mailErr1": "Upišite Vaš e-mail",
+        "mailErr2": "Navedite valjanu e-mail adresu"
+      },
+      "name": "Ime",
+      "email": "Email",
+      "message": "Poruka",
+      "agree": "Slažem se sa",
+      "pp": "pravilima privatnosti",
+      "error": "Ispunite sva polja forme",
+      "thanks": "Hvala Vam na Vašoj poruci"
+    }
+  },
+  "footer": {
+    "subscribeMessage": "Pribilježite se na naše",
+    "news": "VIJESTI",
+    "quote": "Znanje je život uma",
+    "label": "Povežite se s nama",
+    "message": "Iskusni s različitim tehnologijama nastojimo izgraditi optimizirani proizvod za svakog klijenta.",
+    "business": "Navigacija",
+    "info": "Informacije",
+    "socials": "Mreže",
+    "cc": "© 2021 DEVMOTIV. Sva prava zadržana.",
+    "subscriptionErr": "Molimo upišite valjanu email adresu",
+    "pp": "Pravila privatnosti"
+  },
+  "privacyPolicy": {
+    "title": "PRAVILA PRIVATNOSTI",
+    "genInfo": "Ova pravila privatnosti pokrivaju prikupljanje i korištenje informacija dobivenih putem internet stranice na kojoj se nalazi ova obavijest. Ako imate pitanja ili pritužbe u vezi s našom obavijesti ili praksom privatnosti, kontaktirajte nas putem e-pošte koja se nalazi na ovoj internet stranici.",
+    "sections": {
+      "personalInfoCollected": {
+        "title": "Prikupljeni osobni podaci",
+        "text": "DEVMOTIV prikuplja osobne podatke putem ove web stranice radi komunikacije s trenutnim i/ili potencijalnim klijentima, trenutnim i/ili budućim poslovnim partnerima i drugim zainteresiranim stranama.",
+        "collectables": {
+          "info": "Osobni podaci koje možemo prikupljati uključuju:",
+          "name": "Ime",
+          "email": "E-mail adresa",
+          "other": "Ostale podatke koje dobrovoljno šaljete putem ove web stranice"
+        }
+      },
+      "infoUse": {
+        "title": "Korištenje osobnih podataka",
+        "text": "Na ovoj internet stranici prikupljamo osobne podatke putem obrasca za kontakt. Prikupljene osobne podatke koristimo samo za izravni kontakt s vama. Nećemo ga koristiti za izravnu privatnu komunikaciju osim ako izričito zatražite ovu vrstu komunikacije ili ako sadržaj vaše poruke naznači da treba poslati odgovarajući odgovor."
+      },
+      "accessInfo": {
+        "title": "Pristup informacijama",
+        "text": "Kad god prikupljamo vaše osobne podatke, poduzimamo korake kako bismo bili sigurni da su točni, potpuni i ažurni. Ako se vaši osobni podaci promijene ili ako više ne želite komunicirati s nama, od nas možete zatražiti informaciju o tome koje podatke imamo o Vama te da ispravimo, ažuriramo, izmijenimo ili izbrišemo neke ili sve podatke kontaktirajući nas putem kontakta obrazac na ovoj internet stranici ili izravno na e-poštu koja se nalazi na ovoj internet stranici."
+      },
+      "other": {
+        "title": "Druge tehnologije i dodatne informacije",
+        "text": "Naša internet stranica sadrži veze do računa društvenih medija DEVMOTIV na Facebooku i LinkedIn. Naša internet stranica sadrži vezu na blog koji imamo na Hashnode-u. Ne prikupljamo nikakve vaše podatke koje objavljujete putem komentara na naše postove na blogu niti prikupljamo bilo koje vaše podatke vašom interakcijom s bilo kojom od navedenih veza. Ako šaljete osobne podatke na bilo koju od tih web stranica, njihova upotreba vaših podataka uređena je odgovarajućim pravilima privatnosti."
+      }
+    }
+  }
+}

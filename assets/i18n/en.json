@@ -1,0 +1,151 @@
+{
+  "navigation": {
+    "about": "About",
+    "workflow": "Workflow",
+    "workbench": "Workbench",
+    "services": "Services",
+    "contact": "Contact",
+    "blog": "Blog",
+    "getInTouch": "get in touch"
+  },
+  "buttons": {
+    "contactUs": "Contact us",
+    "signUp": "Sign up",
+    "submit": "Submit"
+  },
+  "sIntro": {
+    "1": "Web development business",
+    "2": "Experienced with different technologies we strive to build optimized product for each client."
+  },
+  "sAboutUs": {
+    "label": "About Us",
+    "h1": "Creative challenges are our passion",
+    "text1": "DEVMOTIV is web development business founded in 2021 by Matej Bošnjak, web developer with more than 5 years of working with web technologies. With interest in a wide variety of projects, DEVMOTIV is ready to tackle challenges and bring your projects to life. As technologies advance we can utilize web tech to build mobile or desktop applications as well.",
+    "text2": "To ensure quality of the project and development process, we rely on our six steps workflow. We offer flexibility of listening to your input during all steps of development process for additional changes or features.",
+    "check1": "Development with high quality and clean code",
+    "check2": "Supporting development communities with constructive input",
+    "check3": "Adding new technologies to our workbench whenever we can"
+  },
+  "sWorkflow": {
+    "label": "Workflow",
+    "title": "We organize our workflow per six development steps",
+    "s1": {
+      "title": "Gathering information",
+      "text": "Gathering information from a client about the project to identify their needs and provide the best solution for them."
+    },
+    "s2": {
+      "title": "Project planning",
+      "text": "Based on gathered information, planning of project areas and subareas comes in motion to build proper navigational system."
+    },
+    "s3": {
+      "title": "Design",
+      "text": "By building one or more design prototypes and including the client in some of the workflow tasks we ensure that project meets all requirements."
+    },
+    "s4": {
+      "title": "Development",
+      "text": "Process of development functional project while meeting all standards requirements. Implementing technologies that would be best suited for your project."
+    },
+    "s5": {
+      "title": "Testing, Review, and Launch",
+      "text": "Testing functionality, compatibility, desing and performance to ensure that the website is ready for the launch in production."
+    },
+    "s6": {
+      "title": "Maintenance",
+      "text": "Post launch tasks per user's feedback, support and maintenance."
+    }
+  },
+  "sWorkbench": {
+    "label": "Our Workbench"
+  },
+  "sServices": {
+    "title": "Our services",
+    "subTitle": "By relying on our workbench technologies we ensure that your project is optimised, scalable and properly structured with high quality code",
+    "s1": {
+      "title": "WEBSITE DEVELOPMENT",
+      "description": "Beautiful and responsive design with SEO optimization"
+    },
+    "s2": {
+      "title": "WEB APP DEVELOPMENT",
+      "description": "High quality, clean and secure code while meeting all programming standards."
+    },
+    "s3": {
+      "title": "SEO OPTIMIZATION",
+      "description": "Implementing SEO optimization for your new or existing project"
+    },
+    "s4": {
+      "title": "SUPPORT AND ENHANCEMENT",
+      "description": "Resolving technical support issues and making improvements after implementation per request"
+    },
+    "s5": {
+      "title": "MOBILE AND DESKTOP APPS",
+      "description": "We can utilize web technologies to create stuning mobile or desktop applications"
+    },
+    "s6": {
+      "title": "DATABASE IMPLEMENTATION",
+      "description": "Enhancing your new or existing project with database or custom CMS"
+    }
+  },
+  "sContactUs": {
+    "label": "Contact us",
+    "title": "We will be glad to hear from you!",
+    "adress": "Adress",
+    "form": {
+      "messages": {
+        "default": "Choose message subject",
+        "msg1": "Start a project",
+        "msg2": "Get an info",
+        "msg3": "Send feedback",
+        "mailErr1": "Enter your email adress",
+        "mailErr2": "Enter valid email adress"
+      },
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message",
+      "agree": "I agree to",
+      "pp": "privacy policy",
+      "error": "Fill up all form fields",
+      "thanks": "Thank you for sending us an email"
+    }
+  },
+  "footer": {
+    "subscribeMessage": "Subscribe to our",
+    "news": "NEWSLETTER",
+    "quote": "Knowlege is the life of the mind",
+    "label": "Connect with us",
+    "message": "Experienced with different technologies DEVMOTIV strives to build optimized product for each client.",
+    "business": "Business",
+    "info": "Info",
+    "socials": "Socials",
+    "cc": "© 2021 DEVMOTIV. All right reserved.",
+    "subscriptionErr": "Please provide a valid email address to subscribe",
+    "pp": "Privacy policy"
+  },
+  "privacyPolicy": {
+    "title": "PRIVACY POLICY",
+    "genInfo": "This policy covers the collection and use of information obtained through the website on which this notice appears. If you have questions or complaints regarding our privacy notice or practices, please contact us via e-mail which is provided on this website.",
+    "sections": {
+      "personalInfoCollected": {
+        "title": "Personal Information Collected",
+        "text": "DEVMOTIV collects personal info through this website in order to communicate with current and/or potential clients, current and/or future business partners and others interested parties.",
+        "collectables": {
+          "info": "Personal information we may collect include:",
+          "name": "Name",
+          "email": "E-mail adress",
+          "other": "Other information you voluntarily send through this website"
+        }
+      },
+      "infoUse": {
+        "title": "Use of Personal Information",
+        "text": "On this website we collect personal information through contact form. Collected personal information we use only to contact directly with you. We will not use it for direct private communication unless you specifically ask for this type of communication or content of your message indicates a proper reply should be sent as a response."
+      },
+      "accessInfo": {
+        "title": "Access to Information",
+        "text": "Whenever we collect your personal information, we take steps to ensure that it is accurate, complete and up-to-date. If your personal information changes, or if you no longer want to communicate with us, you may ask us to find out which information we have about you, and to correct, update, amend, or delete any or all information by contacting us via contact form on this website or directly on e-mail which is provided on this website."
+      },
+      "other": {
+        "title": "Other technologies and additional information",
+        "text": "Our website includes links to DEVMOTIV social media accounts on Facebook and LinkedIn. Our website includes link to a blog we have on Hashnode. We do not collect any of your information you post through comments on our blog posts nor we collect any of your information by your interaction with any of mentioned links. If you submit personal information to any of those sites, their use of your information is governed by their respective privacy policies."
+      }
+    }
+  }
+}
